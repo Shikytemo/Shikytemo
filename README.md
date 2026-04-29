@@ -1,39 +1,40 @@
 <div align="center">
-  <h1>Hi, I'm Shikytemo</h1>
-  <p>WhatsApp bot builder, Baileys/Shileys modder, and Node.js automation learner.</p>
+  <h1>Hi, I'm Shikytemo 👋</h1>
+  <p>🤖 WhatsApp bot builder • ⚙️ Baileys/Shileys modder • 🧪 Node.js automation learner</p>
 </div>
 
 ---
 
-## About Me
+## ✨ About Me
 
-I like building practical tools that are easy to run from Termux and simple to customize.
+Aku suka bikin tools yang praktis, gampang dijalankan dari Termux, dan mudah dicustom.
 
-Current focus:
+Yang lagi aku fokusin:
 
-- WhatsApp bot development.
-- Shileys, a Baileys-based mod for native-flow buttons and LID/JID helpers.
-- Scraper and automation tools.
-- Clean CLI flows for pairing, logging, and debugging.
+- 🤖 Development bot WhatsApp.
+- 🔘 Shileys, mod Baileys untuk native-flow button.
+- 🧭 Helper LID/JID biar module bot lebih gampang dipakai.
+- 🕷️ Scraper dan automation tools.
+- 🧼 CLI flow yang rapi untuk pairing, logging, dan debug.
 
-## Projects
+## 🚀 Projects
 
-- `diana-bot` - WhatsApp bot base with pairing code login and interactive menu flow.
-- `shileys` - Baileys mod with native-flow button helper and LID/JID utilities.
-- `shitools` - reusable scraping and automation tools.
+- 🤖 `diana-bot` - base bot WhatsApp dengan pairing code dan menu interaktif.
+- 🔘 `shileys` - mod Baileys dengan native-flow button dan LID/JID utilities.
+- 🕷️ `shitools` - kumpulan scraper dan automation tools.
 
-## Stack
+## 🛠️ Stack
 
 ```txt
-JavaScript / Node.js
-WhatsApp Web Socket
-Baileys / Shileys
-Termux
-GitHub CLI
+⚡ JavaScript / Node.js
+📱 WhatsApp Web Socket
+🔘 Baileys / Shileys
+📟 Termux
+🐙 GitHub CLI
 ```
 
-## Links
+## 🔗 Links
 
-- Shileys: https://github.com/Shikytemo/shileys
-- Diana Bot: https://github.com/Shikytemo/diana-bot
-- Shitools: https://github.com/Shikytemo/shitools
+- 🔘 Shileys: https://github.com/Shikytemo/shileys
+- 🤖 Diana Bot: https://github.com/Shikytemo/diana-bot
+- 🕷️ Shitools: https://github.com/Shikytemo/shitools
